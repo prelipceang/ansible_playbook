@@ -1,5 +1,5 @@
 FROM gliderlabs/alpine:3.4
-ARG VERSION=2.7.2
+ARG VERSION=latest
 
 RUN \
   apk-install \
